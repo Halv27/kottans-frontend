@@ -29,28 +29,73 @@
 <details>
 <summary> Week 1 Coursera 'Introduction to Git and GitHub' </summary>
 
-![Quiz]
+!['Introduction to Git and GitHub'](https://github.com/Halv27/kottans-frontend/blob/main/git%20basics/coursera_week-1%2B2/coursera_week-1.png)
+!['Introduction to Git and GitHub'](https://github.com/Halv27/kottans-frontend/blob/main/git%20basics/coursera_week-1%2B2/coursera_week-1.2.png)
 
 </details>
 
 <details>
 <summary> Week 2 Coursera 'Introduction to Git and GitHub' </summary>
 
-![Quiz](./git/coursera/1)
+!['Introduction to Git and GitHub'](https://github.com/Halv27/kottans-frontend/blob/main/git%20basics/coursera_week-1%2B2/coursera_week-2.png)
+!['Introduction to Git and GitHub'](https://github.com/Halv27/kottans-frontend/blob/main/git%20basics/coursera_week-1%2B2/coursera_week-2.2.png)
 
 </details>
 
 <details>
 <summary> Learngitbranching.js.org: </summary>
 
-![Quiz]
+![Learngitbranching](https://github.com/Halv27/kottans-frontend/blob/main/git%20basics/learngitbranching/basics.png)
+![Learngitbranching](https://github.com/Halv27/kottans-frontend/blob/main/git%20basics/learngitbranching/push_and_pull.png)
 
 </details>
 
-I had never studied information about Git та GitHub before, so everything was completely new to me. Frankly speaking, it was not very easy and took some time to understand and I think I will need to improve my knowledge to use it effectively in the future but practice will help.
+I had never studied information about Git та GitHub before, so everything was completely new to me. Frankly speaking, it was not very easy and took some time to understand and I think I will need to improve my knowledge to use it effectively in the future but practicing will help.
 
 
 #### 2. Linux, Command Line, HTTP Tools
 
+<details>
+<summary> Linux </summary>
+
+![Quiz](https://github.com/Halv27/kottans-frontend/blob/main/task_linux_cli/linux_1.png)
+![Quiz](https://github.com/Halv27/kottans-frontend/blob/main/task_linux_cli/linux_2.png)
+![Quiz](https://github.com/Halv27/kottans-frontend/blob/main/task_linux_cli/linux_3.png)
+![Quiz](https://github.com/Halv27/kottans-frontend/blob/main/task_linux_cli/linux_4.png)
+
+</details>
+
+I had minimal experience working with the command line, that is, I used the most basic commands and nothing more. So, most of the information was new to me. I discovered that doing some things in the command line is faster to do than using the touchpad. 
+
+
 #### 3. VCS (hello gitty), GitHub and Collaboration
 
+<details>
+<summary> Week 3 Coursera 'Introduction to Git and GitHub' </summary>
+
+!['Introduction to Git and GitHub'](https://github.com/Halv27/kottans-frontend/blob/main/task_git_collaboration/coursera_week_3%2B4/coursera_week-3.png)
+!['Introduction to Git and GitHub'](https://github.com/Halv27/kottans-frontend/blob/main/task_git_collaboration/coursera_week_3%2B4/coursera_week-3.2.png)
+!['Introduction to Git and GitHub'](https://github.com/Halv27/kottans-frontend/blob/main/task_git_collaboration/coursera_week_3%2B4/coursera_week-3.3.png)
+!['Introduction to Git and GitHub'](https://github.com/Halv27/kottans-frontend/blob/main/task_git_collaboration/coursera_week_3%2B4/coursera_week-3.4.png)
+
+</details>
+
+<details>
+<summary> Week 4 Coursera 'Introduction to Git and GitHub' </summary>
+
+!['Introduction to Git and GitHub'](https://github.com/Halv27/kottans-frontend/blob/main/task_git_collaboration/coursera_week_3%2B4/coursera_week-4.png)
+!['Introduction to Git and GitHub'](https://github.com/Halv27/kottans-frontend/blob/main/task_git_collaboration/coursera_week_3%2B4/coursera_week-4.2.png)
+!['Introduction to Git and GitHub'](https://github.com/Halv27/kottans-frontend/blob/main/task_git_collaboration/coursera_week_3%2B4/coursera_week-4.3.png)
+!['Introduction to Git and GitHub'](https://github.com/Halv27/kottans-frontend/blob/main/task_git_collaboration/coursera_week_3%2B4/coursera_week-4.4.png)
+
+</details>
+
+<details>
+<summary> Learngitbranching.js.org: </summary>
+
+![Learngitbranching](https://github.com/Halv27/kottans-frontend/blob/main/task_git_collaboration/learngitbranching/1.png)
+![Learngitbranching](https://github.com/Halv27/kottans-frontend/blob/main/task_git_collaboration/learngitbranching/2.png)
+
+</details>
+
+As I have already written, Git and Github were completely new to me. This part of the course was quite difficult for me and I spent quite a lot of time to complete it and in order to understand some things, I watched and read additional information. Also I first went through the entire course on the Coursera 'Introduction to Git and GitHub' and only then sent the pull request and I think that this helped to make it. 
