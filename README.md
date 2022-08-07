@@ -105,7 +105,7 @@ As I have already written, Git and Github were completely new to me. This part o
 
 ### Front-End Basics
 
-#### Intro to HTML & CSS
+#### 3. Intro to HTML & CSS
 
 <details>
 <summary> Week 1 Coursera 'HTML, CSS, and Javascript for Web Developers' </summary>
