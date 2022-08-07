@@ -40,6 +40,13 @@
 
 </details>
 
+<details>
+<summary> Learngitbranching.js.org: </summary>
+
+![Quiz]
+
+</details>
+
 I had never studied information about Git та GitHub before, so everything was completely new to me. Frankly speaking, it was not very easy and took some time to understand and I think I will need to improve my knowledge to use it effectively in the future but practice will help.
 
 
