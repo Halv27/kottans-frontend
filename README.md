@@ -136,7 +136,7 @@ As I have already written, Git and Github were completely new to me. This part o
  
  </details>
 
-Information about CSS and HTML wasn't new to me so there was no problem to quickly pass these courses, moreover, they mostly cover basic things I've already known. But I think it was still useful to repeat the things mentioned in these courses to consolidate my knowledge. Еor example, I refreshed the information about the attribute selector. In fact, for some reason, I rarely used it, maybe in the future I will fix it. 
+Information about CSS and HTML wasn't new for me so there was no problem to quickly pass these courses, moreover, they mostly cover basic things I've already known. But I think it was still useful to repeat the things mentioned in these courses to consolidate my knowledge. For example, I refreshed the information about the attribute selector. In fact, for some reason, I rarely used it, maybe in the future I will fix this. 
 
 
 
