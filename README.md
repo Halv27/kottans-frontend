@@ -26,7 +26,7 @@
 ## Stage 0
 ### General
 
-#### 1. Git Basics
+#### 0. Git Basics
 
 <details>
 <summary> Week 1 Coursera 'Introduction to Git and GitHub' </summary>
@@ -55,7 +55,7 @@
 I had never studied information about Git та GitHub before, so everything was completely new to me. Frankly speaking, it was not very easy and took some time to understand and I think I will need to improve my knowledge to use it effectively in the future but practicing will help.
 
 
-#### 2. Linux, Command Line, HTTP Tools
+#### 1. Linux, Command Line, HTTP Tools
 
 <details>
 <summary> Linux </summary>
@@ -70,7 +70,7 @@ I had never studied information about Git та GitHub before, so everything was 
 I had minimal experience working with the command line, that is, I used the most basic commands and nothing more. So, most of the information was new to me. I discovered that doing some things in the command line is faster to do than using the touchpad. 
 
 
-#### 3. VCS (hello gitty), GitHub and Collaboration
+#### 2. VCS (hello gitty), GitHub and Collaboration
 
 <details>
 <summary> Week 3 Coursera 'Introduction to Git and GitHub' </summary>
