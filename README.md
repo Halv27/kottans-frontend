@@ -26,6 +26,22 @@
 
 #### 1. Git Basics
 
+<details>
+<summary> Week 1 Coursera 'Introduction to Git and GitHub' </summary>
+
+![Quiz]
+
+</details>
+
+<details>
+<summary> Week 2 Coursera 'Introduction to Git and GitHub' </summary>
+
+![Quiz](./git/coursera/1)
+
+</details>
+
+I had never studied information about Git та GitHub before, so everything was completely new to me. Frankly speaking, it was not very easy and took some time to understand and I think I will need to improve my knowledge to use it effectively in the future but practice will help.
+
 
 #### 2. Linux, Command Line, HTTP Tools
 
