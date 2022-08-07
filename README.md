@@ -123,14 +123,14 @@ As I have already written, Git and Github were completely new to me. This part o
 </details>
 
 <details>
-<summary> Codecademy Learn HTML  </summary>
+<summary> Codecademy 'Learn HTML'  </summary>
 
 ![html](https://github.com/Halv27/kottans-frontend/blob/main/task_html_css_intro/codecademy_html.png)
  
  </details>
 
 <details>
-<summary> Codecademy Learn CSS </summary>
+<summary> Codecademy 'Learn CSS' </summary>
 
 ![css](https://github.com/Halv27/kottans-frontend/blob/main/task_html_css_intro/codecademy_css.png)
  
