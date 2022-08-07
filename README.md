@@ -52,7 +52,7 @@
 
 </details>
 
-I had never studied information about Git та GitHub before, so everything was completely new to me. Frankly speaking, it was not very easy and took some time to understand and I think I will need to improve my knowledge to use it effectively in the future but practicing will help.
+*I had never studied information about Git та GitHub before, so everything was completely new to me. Frankly speaking, it was not very easy and took some time to understand and I think I will need to improve my knowledge to use it effectively in the future but practicing will help.*
 
 
 #### 1. Linux, Command Line, HTTP Tools
@@ -67,7 +67,7 @@ I had never studied information about Git та GitHub before, so everything was 
 
 </details>
 
-I had minimal experience working with the command line, that is, I used the most basic commands and nothing more. So, most of the information was new to me. I discovered that doing some things in the command line is faster to do than using the touchpad. 
+*I had minimal experience working with the command line, that is, I used the most basic commands and nothing more. So, most of the information was new to me. I discovered that doing some things in the command line is faster to do than using the touchpad.* 
 
 
 #### 2. VCS (hello gitty), GitHub and Collaboration
@@ -100,7 +100,7 @@ I had minimal experience working with the command line, that is, I used the most
 
 </details>
 
-As I have already written, Git and Github were completely new to me. This part of the course was quite difficult for me and I spent quite a lot of time to complete it and in order to understand some things, I watched and read additional information. Also I first went through the entire course on the Coursera 'Introduction to Git and GitHub' and only then sent the pull request and I think this somehow helped to create it. 
+*As I have already written, Git and Github were completely new to me. This part of the course was quite difficult for me and I spent quite a lot of time to complete it and in order to understand some things, I watched and read additional information. Also I first went through the entire course on the Coursera 'Introduction to Git and GitHub' and only then sent the pull request and I think this somehow helped to create it.* 
 
 
 ### Front-End Basics
@@ -136,7 +136,7 @@ As I have already written, Git and Github were completely new to me. This part o
  
  </details>
 
-Information about CSS and HTML wasn't new for me so there was no problem to quickly pass these courses, moreover, they mostly cover basic things I've already known. But I think it was still useful to repeat the things mentioned in these courses to consolidate my knowledge. For example, I refreshed the information about the attribute selector. In fact, for some reason, I rarely used it, maybe in the future I will fix this. 
+*Information about CSS and HTML wasn't new for me so there was no problem to quickly pass these courses, moreover, they mostly cover basic things I've already known. But I think it was still useful to repeat the things mentioned in these courses to consolidate my knowledge. For example, I refreshed the information about the attribute selector. In fact, for some reason, I rarely used it, maybe in the future I will fix this.* 
 
 
 
