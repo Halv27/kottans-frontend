@@ -1,25 +1,27 @@
 ## Stage 0. Self-Study
 
-### General
- 0. Git Basics
- 1. Linux CLI and Networking
- 2. VCS (hello gitty), GitHub and Collaboration
+- [X] **General**
+    - [X] 0. Git Basics
+    - [X] 1. Linux CLI and Networking
+    - [X] 2. VCS (hello gitty), GitHub and Collaboration
 
-### Front-End Basics
- 3. Intro to HTML & CSS
- 4. Responsive Web Design
- 5. HTML & CSS Practice
- 6. JavaScript Basics
- 7. Document Object Model- practice
+- [ ] **Front-End Basics**  
+    - [X] 3. Intro to HTML & CSS
+    - [ ] 4. Responsive Web Design
+    - [ ] 5. HTML & CSS Practice
+    - [ ] 6. JavaScript Basics
+    - [ ] 7. Document Object Model- practice
 
-### Advanced Topics
- 8. Building a Tiny JS World (pre-OOP) - practice
- 9. Object oriented JS - practice
- 10. OOP exercise - practice
-11. Offline Web Applications - optional
-12. Memory pair game — real project!
-13. Website Performance Optimization - optional
-14. Friends App - real project!
+- [ ] **Advanced Topics** 
+    - [ ] 8. Building a Tiny JS World (pre-OOP) - practice
+    - [ ] 9. Object oriented JS - practice
+    - [ ] 10. OOP exercise - practice
+    - [ ] 11. Offline Web Applications - optional
+    - [ ] 12. Memory pair game — real project!
+    - [ ] 13. Website Performance Optimization - optional
+    - [ ] 14. Friends App - real project!
+
+---
 
 ## Stage 0
 ### General
@@ -99,3 +101,42 @@ I had minimal experience working with the command line, that is, I used the most
 </details>
 
 As I have already written, Git and Github were completely new to me. This part of the course was quite difficult for me and I spent quite a lot of time to complete it and in order to understand some things, I watched and read additional information. Also I first went through the entire course on the Coursera 'Introduction to Git and GitHub' and only then sent the pull request and I think that this helped to make it. 
+
+
+### Front-End Basics
+
+#### Intro to HTML & CSS
+
+<details>
+<summary> Week 1 Coursera 'HTML, CSS, and Javascript for Web Developers' </summary>
+
+![Week 1 Coursera 'HTML, CSS, and Javascript for Web Developers'](https://github.com/Halv27/kottans-frontend/blob/main/task_html_css_intro/coursera_week1(1).png)
+![Week 1 Coursera 'HTML, CSS, and Javascript for Web Developers'](https://github.com/Halv27/kottans-frontend/blob/main/task_html_css_intro/coursera_week1(2).png)
+
+</details>
+
+<details>
+<summary> Week 2 Coursera 'HTML, CSS, and Javascript for Web Developers' </summary>
+
+![Week 2 Coursera 'HTML, CSS, and Javascript for Web Developers'](https://github.com/Halv27/kottans-frontend/blob/main/task_html_css_intro/coursera_week2.png)
+
+</details>
+
+<details>
+<summary> Codecademy Learn HTML  </summary>
+
+![html](https://github.com/Halv27/kottans-frontend/blob/main/task_html_css_intro/codecademy_html.png)
+ 
+ </details>
+
+<details>
+<summary> Codecademy Learn CSS </summary>
+
+![css](https://github.com/Halv27/kottans-frontend/blob/main/task_html_css_intro/codecademy_css.png)
+ 
+ </details>
+
+Information about CSS and HTML wasn't new to me so there was no problem to quickly pass these courses, moreover, they mostly cover basic things I've already known. But I think it was still useful to repeat the things mentioned in these courses to consolidate my knowledge. Еor example, I refreshed the information about the attribute selector. In fact, for some reason, I rarely used it, maybe in the future I will fix it. 
+
+
+
