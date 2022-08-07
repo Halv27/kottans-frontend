@@ -100,7 +100,7 @@ I had minimal experience working with the command line, that is, I used the most
 
 </details>
 
-As I have already written, Git and Github were completely new to me. This part of the course was quite difficult for me and I spent quite a lot of time to complete it and in order to understand some things, I watched and read additional information. Also I first went through the entire course on the Coursera 'Introduction to Git and GitHub' and only then sent the pull request and I think that this helped to make it. 
+As I have already written, Git and Github were completely new to me. This part of the course was quite difficult for me and I spent quite a lot of time to complete it and in order to understand some things, I watched and read additional information. Also I first went through the entire course on the Coursera 'Introduction to Git and GitHub' and only then sent the pull request and I think this somehow helped to create it. 
 
 
 ### Front-End Basics
