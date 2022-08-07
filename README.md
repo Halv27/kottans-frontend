@@ -45,7 +45,7 @@
 </details>
 
 <details>
-<summary> Learngitbranching.js.org: </summary>
+<summary> Learngitbranching.js.org </summary>
 
 ![Learngitbranching](https://github.com/Halv27/kottans-frontend/blob/main/git%20basics/learngitbranching/basics.png)
 ![Learngitbranching](https://github.com/Halv27/kottans-frontend/blob/main/git%20basics/learngitbranching/push_and_pull.png)
