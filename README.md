@@ -175,7 +175,7 @@ Also, it was mentioned it’s better to still use the width and height attribute
 
 <summary> FLEXBOX. Вчимося верстати на флексах </summary>
 </br>
-I really like Zhenya's videos and how he explains. I discovered a lot of useful information for myself after watching his videos. Also It's very cool he gave his cheat sheet about Flexbox features and practice tasks to consolidate the material for his viewers.
+I really like Zhenia's videos and how he explains. I discovered a lot of useful information for myself after watching his videos. Also It's very cool he gave his cheat sheet about Flexbox features and practice tasks to consolidate the material for his viewers.
 
 These features I studied: flex-basis, flex-grow, flex-shink, flex etc. 
 Also, I will take into account how to place the footer at the bottom of the page, stretching the main part to the entire free space of the page (if we use Flexbox). In this case, our footer always is at the bottom of the page, even if there is little content in the main part:
