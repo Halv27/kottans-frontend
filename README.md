@@ -189,13 +189,10 @@ flex: 1 1 auto;
 
 Interesting was the speaker's decision to indent between 2 columns (total indent 16 pixels) using such properties:
 >.columns__row {
-display:flex;
-display-wrap: wrap;
 margin: 0px -8px;
 }</br>
 .columns__column {
 padding: 0px 8px;
-flex: 0 1 50%; 
 }   
     
 I think most of what was mentioned in the video I will use in the future.
