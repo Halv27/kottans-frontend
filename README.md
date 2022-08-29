@@ -213,7 +213,7 @@ It's a cool game to remember Flexbox. I've played it before, but I also liked it
 </br>
 Zhenia explained grids quite clearly. It was great to get a cheat sheet because it is difficult to remember all the properties of the grids at the beginning (especially when we are not talking about the most basic and often used values). By the way, abbreviations used in grids remain quite difficult for me to remember and it is easier to write them completely. 
 
-There were things that were quite new for me: auto-fill, auto-fit, grid-areas etc. I also liked [this article(https://www.smashingmagazine.com/understanding-css-grid-template-areas/) to understand grids better. 
+There were things that were quite new for me: auto-fill, auto-fit, grid-areas etc. 
 
 </details>
 
