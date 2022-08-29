@@ -7,8 +7,8 @@
 
 - [ ] **Front-End Basics**  
     - [X] 3. Intro to HTML & CSS
-    - [ ] 4. Responsive Web Design
-    - [ ] 5. HTML & CSS Practice
+    - [X] 4. Responsive Web Design
+    - [X] 5. HTML & CSS Practice
     - [ ] 6. JavaScript Basics
     - [ ] 7. Document Object Model- practice
 
@@ -178,24 +178,23 @@ Also, it was mentioned it’s better to still use the width and height attribute
 I really like Zhenia's videos and how he explains. I discovered a lot of useful information for myself after watching his videos. Also It's very cool he gave his cheat sheet about Flexbox features and practice tasks to consolidate the material for his viewers.
 
 These features I studied: flex-basis, flex-grow, flex-shink, flex etc. 
-Also, I will take into account how to place the footer at the bottom of the page, stretching the main part to the entire free space of the page (if we use Flexbox). In this case, our footer always is at the bottom of the page, even if there is little content in the main part:
->.block__row {
-display:flex;
-flex-direction: column;
-}</br>
-.block__column—2 {
-flex: 1 1 auto;
-}
 
 Interesting was the speaker's decision to indent between 2 columns (total indent 16 pixels) using such properties:
->.columns__row {
+>`.columns__row {
 margin: 0px -8px;
-}</br>
-.columns__column {
+}` 
+
+>`.columns__column {
 padding: 0px 8px;
-}   
+}`  
     
 I think most of what was mentioned in the video I will use in the future.
+
+I also found this article ([11 things I learned reading the flexbox spec](https://medium.com/hackernoon/11-things-i-learned-reading-the-flexbox-spec-5f0c799c776b)) very useful. It contains a lot of practical information and that's very cool (the only minus is that the background of the article is bright green and it's difficult to read it). For example, 
+>What I didn’t know until now is that I generally only want one of three combinations:
+> * If I want an item to squish in a bit if there isn’t enough room, but not to stretch any wider than it needs to: flex: 0 1 auto
+> * If my flex item should stretch to fill the available space and squish in a bit if there’s not enough room: flex: 1 1 auto
+> * If my item should not flex at all: flex: 0 0 auto
 
 </details>
 
@@ -212,7 +211,9 @@ It's a cool game to remember Flexbox. I've played it before, but I also liked it
 <details>
 <summary> CSS Grid Layout </summary>
 </br>
+Zhenia explained grids quite clearly. It was great to get a cheat sheet because it is difficult to remember all the properties of the grids at the beginning (especially when we are not talking about the most basic and often used values). By the way, abbreviations used in grids remain quite difficult for me to remember and it is easier to write them completely. 
 
+There were things that were quite new for me: auto-fill, auto-fit, grid-areas etc. I also liked [this article(https://www.smashingmagazine.com/understanding-css-grid-template-areas/) to understand grids better. 
 
 </details>
 
@@ -225,5 +226,12 @@ It was a quite useful game to establish the basic Grid's properties. I've played
 [Grid Garden](https://github.com/Halv27/kottans-frontend/blob/main/task_adaptive_web%20design/Grid%20Garden.png)
 
 </details>
+
+#### 5. HTML & CSS Practice
+[Popup Demo](https://halv27.github.io/html-css-practice-popup/) 
+
+[Popup code base](https://github.com/Halv27/html-css-practice-popup) 
+
+[Popup PR](https://github.com/kottans/frontend-2022-homeworks/pull/152) 
 
 
