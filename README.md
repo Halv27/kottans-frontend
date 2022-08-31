@@ -234,4 +234,6 @@ It was a quite useful game to establish the basic Grid's properties. I've played
 
 [Popup PR](https://github.com/kottans/frontend-2022-homeworks/pull/152) 
 
+*It was the first time someone checked my code and it was an interesting experience. I spent a lot of time to understand how to do the practical task correctly, but still I did it. The information about correct customization and hiding the checkbox was new for me. This [video](https://www.youtube.com/watch?v=E6kLaaQFctU) was very useful.*
 
+*P.S. Thanks Artem Trubin for the review*
