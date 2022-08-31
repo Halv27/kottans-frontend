@@ -189,6 +189,7 @@ padding: 0px 8px;
 }`  
     
 I think most of what was mentioned in the video I will use in the future.
+![CSS Flexbox](https://github.com/Halv27/kottans-frontend/blob/main/task_adaptive_web%20design/flexbox.png)
 
 I also found this article ([11 things I learned reading the flexbox spec](https://medium.com/hackernoon/11-things-i-learned-reading-the-flexbox-spec-5f0c799c776b)) very useful. It contains a lot of practical information and that's very cool (the only minus is that the background of the article is bright green and it's difficult to read it). For example, 
 >What I didn’t know until now is that I generally only want one of three combinations:
@@ -214,6 +215,8 @@ It's a cool game to remember Flexbox. I've played it before, but I also liked it
 Zhenia explained grids quite clearly. It was great to get a cheat sheet because it is difficult to remember all the properties of the grids at the beginning (especially when we are not talking about the most basic and often used values). By the way, abbreviations used in grids remain quite difficult for me to remember and it is easier to write them completely. 
 
 There were things that were quite new for me: auto-fill, auto-fit, grid-areas etc. 
+
+![CSS Grid](https://github.com/Halv27/kottans-frontend/blob/main/task_adaptive_web%20design/grid.png)
 
 </details>
 
