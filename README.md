@@ -240,3 +240,10 @@ It was a quite useful game to establish the basic Grid's properties. I've played
 *It was the first time someone checked my code and it was an interesting experience. I spent a lot of time to understand how to do the practical task correctly, but still I did it. The information about correct customization and hiding the checkbox was new for me. This [video](https://www.youtube.com/watch?v=E6kLaaQFctU) was very useful.*
 
 *P.S. Thanks Artem Trubin for the review*
+
+#### 6. JavaScript Basics
+[Screenshots](https://github.com/Halv27/kottans-frontend/tree/main/task_js_basics) 
+
+*This part was almost completely new to me because I wasn't very familiar with JavaScript. I mean I was familiar with the syntax so-so, but I practically did something using it like twice. There was a lot of information and it was quite difficult for me to understand and remember it and it took quite a long time. Well, I spent several weeks on this and the next part. I tried to absorb the information as efficiently as possible and did all the tasks on my own but I couldn't do everything even with hints. The most difficult thing was to figure out the algorithms. Some tasks from Intermediate Algorithm Scripting were sooooo complicated to understand.*
+
+
